@@ -1,0 +1,3 @@
+post-build=elephone/cm_p8000/p8000:5.1.1/LMY49G/fed8bf5688:user/test-keys
+post-timestamp=1457312394
+pre-device=p8000
